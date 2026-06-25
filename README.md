@@ -1,5 +1,10 @@
 # Iris Species Exploratory Analytics
 
+## Web Report
+
+A static web representation is available in `docs/index.html`. After enabling GitHub Pages from the `docs` folder, it can be viewed as a project report page.
+
+
 ## Project Overview
 
 This project analyzes the classic Iris dataset as a compact but complete research workflow for exploratory analytics, statistical testing, feature interpretation, and multiclass classification. The goal is to understand how well four flower measurements can separate three Iris species: setosa, versicolor, and virginica.
