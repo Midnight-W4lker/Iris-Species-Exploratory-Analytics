@@ -1,9 +1,3 @@
----
-noteId: "e5e71e0070b011f19ec49d9bd6d884a1"
-tags: []
-
----
-
 # Iris Species Exploratory Analytics
 
 ## Project Overview
